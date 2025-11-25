@@ -128,49 +128,10 @@ Run application:
 
 streamlit run app.py
 
-🧪 Recommended Demo Steps (For Assignment)
-
-During screen recording:
-1️⃣ Select Software Engineer, Junior, Enter a company name (e.g., Eightfold AI)
-2️⃣ Start interview → Rachel voice greets user
-3️⃣ Show behavioral Q&A
-4️⃣ Move into Python coding
-5️⃣ First incorrect submission → Rachel gives hint
-6️⃣ Fix code → Rachel moves to DSA → evaluates
-7️⃣ End Interview → Voice + text feedback
-
-Keep demo ≤ 10 minutes as required
-
-📂 Repository Structure
-📁 jobprep-ai-rachel
- ├─ app.py                 # Main Streamlit app
- ├─ README.md              # Documentation 📌
- ├─ requirements.txt       # Dependencies
- ├─ .env.example           # API keys placeholder
-
-🎯 Assignment Evaluation Mapping
-Requirement	Status
-Conversational Quality	✅ Natural, role-tailored
-Agentic Behavior	✅ Adapts per persona + interview flow
-Technical Implementation	✅ LLM + coding engine + speech
-Intelligence & Adaptability	✅ Context-aware questions
-Multiple Personas Tested	✔ Demonstrable in video
-Voice Preferred	✔ Fully supported
-🔮 Future Enhancements
-
-More coding questions & adaptive difficulty
-
-Java/C++ code execution using a containerized sandbox
-
-Downloadable Interview Report (PDF)
-
-Scoring rubric for quantitative evaluation
-
-Login + Saved Interview History
 
 👤 Author
 
-Teja Shree
+Teja Shree R 
 B.Tech – Artificial Intelligence & Data Science
 
 Built for: Eightfold.ai – AI Agent Building Assignment
