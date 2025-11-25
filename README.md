@@ -53,9 +53,9 @@ Attempt 3+ → full example solution allowed
 
 Coding topics:
 
-Sum of Array (base question)
+Basic questions
 
-DSA (Two Sum / Contains Duplicate)
+DSA questions
 
 🗣 Voice Interaction
 
