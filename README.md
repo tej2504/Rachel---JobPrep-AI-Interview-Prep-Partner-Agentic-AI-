@@ -2,7 +2,6 @@
 💼 JobPrep AI – Powered by Rachel 🎤
 
 An AI-driven mock interview assistant designed to help candidates practice for real technical and non-technical job interviews.
-Built as part of the Eightfold.ai – AI Agent Building Assignment.
 
 Rachel — your interviewer — offers:
 ✔ Adaptive conversation
@@ -134,5 +133,4 @@ streamlit run app.py
 Teja Shree R 
 B.Tech – Artificial Intelligence & Data Science
 
-Built for: Eightfold.ai – AI Agent Building Assignment
 Project Codename: JobPrep AI – Rachel
